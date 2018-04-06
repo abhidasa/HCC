@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">HCC</string>
+    <string name="Username">UserId</string>
+    <string name="Password">Passcode</string>
+    <string name="Login">Login?</string>
+    <string name="Register">Register?</string>
+    <string name="ForgotPwd">Forgot Password?</string>
+    <string name="checkbox">Remember Me?</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="Welcome">Welcome!</string>
+    <string name="version">v.1.0</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="Name">Name</string>
+    <string name="Your_Dob">Date of Birth</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="email">Email</string>
+    <string name="phoneNumber">Phone Number</string>
+    <string name="Pwd">Password</string>
+    <string name="cnfrmPwd">Confirm Password</string>
+    <string name="search">Search</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="address">Zipcode</string>
+    <string name="useMyLocation">Use My Current Location</string>
+</resources>
